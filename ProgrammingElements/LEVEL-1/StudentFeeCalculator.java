@@ -21,6 +21,6 @@ public class StudentFeeCalculator {
                                " and final discounted fee is INR " + finalFee);
         }
 
-        sc.close();
+        
     }
 }
