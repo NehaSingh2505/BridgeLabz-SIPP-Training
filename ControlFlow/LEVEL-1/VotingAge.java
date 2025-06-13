@@ -7,7 +7,7 @@ public class VotingAge{
         if(age >= 18){
             System.out.print("the person can vote.");
         } else {
-            System.out.print("the person can vote.");
+            System.out.print("the person can't vote.");
         }
     }
 }
