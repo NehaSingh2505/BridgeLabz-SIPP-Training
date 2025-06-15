@@ -4,13 +4,10 @@ public class RocketLaunchCountDown {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the countdown start value: ");
         int counter = scanner.nextInt();
-
-        while (counter >= 1) {
-            System.out.println(counter);
-            counter--;
+        for (int i = counter; i >= 1; i--) {
+            System.out.println(i);
         }
-
-        System.out.println("Rocket launched!");
+        System.out.println("Rocket launched");
         scanner.close();
     }
 }
