@@ -54,14 +54,14 @@ Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Trai
 - HashMap and functions
 - Algorithm's Runtime Analysis & Big-O Notation
 - 
-### 🔹 Mini project 
+### 🔹 Workshop- Mini project 
 - library management system
 - Vehicle rental system
 - Online BillingSystem
 - Vehicle parking sytem
 - vowel consonant count program 
 
-## 🧠 Progress Overview
+## 🧠 Progress Overview 
 
 I am continuously updating this repository as I complete more concepts and assignments during my SIPP training.
 
