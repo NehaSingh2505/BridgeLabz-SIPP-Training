@@ -53,7 +53,7 @@ Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Trai
 - Stacks & Queues
 - HashMap and functions
 - Algorithm's Runtime Analysis & Big-O Notation
-- 
+
 ### 🔹 Workshop- Mini project 
 - library management system
 - Vehicle rental system
