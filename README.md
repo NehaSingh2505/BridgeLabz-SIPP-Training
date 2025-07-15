@@ -15,6 +15,14 @@ Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Trai
 - **DSA-Java**  
   Contains data structures and algorithms implemented in Java. Covers arrays, linked lists, stacks, queues, trees, sorting, searching, etc.
 
+- **Workshop**
+ Contains mini projects that basically focuses on understanding the concept and implementing it .This include the following mini projects :
+- library management system
+- Vehicle rental system
+- Online BillingSystem
+- Vehicle parking sytem
+- vowel consonant count program 
+
 
 ---
 
@@ -46,7 +54,7 @@ Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Trai
 - HashMap and functions
 - Algorithm's Runtime Analysis & Big-O Notation
 - 
-### 🔹 Workshop
+### 🔹 Mini project 
 - library management system
 - Vehicle rental system
 - Online BillingSystem
@@ -58,6 +66,23 @@ Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Trai
 I am continuously updating this repository as I complete more concepts and assignments during my SIPP training.
 
 ---
+
+**Date : 15/07/2025**
+
+Added the  assignment solution of the following topics:
+
+StringBuilder
+StringBuffer
+FileReader
+LinearAndBinarySearch
+Algorithms Runtime Analysis BigO Notation
+
+🔹Link : (https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+🔹Link : (https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
+
+ 
+
+
 
 ## ✍️ Author
 
