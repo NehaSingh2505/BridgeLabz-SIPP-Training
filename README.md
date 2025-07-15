@@ -67,13 +67,16 @@
 ## 🧠 Progress Tracker
 
 📅 **Last Updated: 15/07/2025**
+---
 
-### ✅ Newly Added Assignments:
-- ✅ StringBuilder & StringBuffer  
-- ✅ FileReader  
-- ✅ Linear & Binary Search  
-- ✅ Algorithm Runtime Analysis  
-- ✅ Big-O Notation  
+**Date : 15/07/2025**
+
+Added the assignment solutions for the following topics:
+
+- [StringBuilder, StringBuffer, FileReader, Linear and Binary Search](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+
+- [Algorithms Runtime Analysis & Big-O Notation](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
+
 
 ---
 
