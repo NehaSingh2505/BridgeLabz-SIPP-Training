@@ -1,105 +1,89 @@
-# 🚀 BridgeLabz SIPP Training Repository
+<h1 align="center">🚀 BridgeLabz SIPP Training Repository</h1>
 
-Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Training repository. This repository contains my learnings, assignments, and code implementations across multiple topics in Computer Science and Java.
-
----
-
-##  Branch Names & Descriptions
-
-- **Core-Java**  
-  Covers fundamental Java concepts including syntax, control structures, arrays, strings, and basic object-oriented programming.
-
-- **OOPS**  
-  Focuses on Object-Oriented Programming principles such as inheritance, encapsulation, abstraction, polymorphism, interfaces, and method overriding/overloading.
-
-- **DSA-Java**  
-  Contains data structures and algorithms implemented in Java. Covers arrays, linked lists, stacks, queues, trees, sorting, searching, etc.
-
-- **Workshop**
- Contains mini projects that basically focuses on understanding the concept and implementing it .This include the following mini projects :
-- library management system
-- Vehicle rental system
-- Online BillingSystem
-- Vehicle parking sytem
-- vowel consonant count program 
-
+<p align="center">
+  📚 A collection of Java concepts, assignments, data structures, and mini-projects completed during my Summer Internship & Placement Preparation (SIPP) at BridgeLabz.
+</p>
 
 ---
 
-## 📘 Concepts Covered
+## 🗂️ Branch Overview
+
+| Branch Name   | Description |
+|--------------|-------------|
+| **Core-Java** | Fundamental Java concepts like variables, loops, arrays, strings, exception handling, etc. |
+| **OOPS**      | Deep dive into object-oriented programming: inheritance, encapsulation, polymorphism, and more. |
+| **DSA-Java**  | Implementation of data structures and algorithms using Java, including Linked Lists, Sorting, Searching, etc. |
+| **Workshop**  | Hands-on mini projects to solidify learning through real-world applications. |
+
+---
+
+## 💡 Concepts Covered
 
 ### 🔹 Core-Java
-- Java Syntax & Variables
-- Loops & Conditionals
-- Arrays & String Manipulation
-- Exception Handling
-- Basic I/O Operations
-- Methods 
-- Programmin elements 
+- 🔸 Java Syntax & Variables  
+- 🔸 Loops & Conditionals  
+- 🔸 Arrays & Strings  
+- 🔸 Exception Handling  
+- 🔸 Methods & Basic I/O  
+- 🔸 Programming Elements  
 
-### 🔹 OOPS
-- Classes & Objects
-- Constructors
-- Encapsulation 
-- Polymorphism
-- Inheritance
-- Interfaces & Abstract Classes
-- Method Overriding & Overloading
-- `this`, `static`, `final`, and `instanceof` keywords
+### 🔹 OOPS (Object-Oriented Programming)
+- 🔹 Classes & Objects  
+- 🔹 Constructors  
+- 🔹 Encapsulation  
+- 🔹 Inheritance  
+- 🔹 Polymorphism  
+- 🔹 Interfaces & Abstract Classes  
+- 🔹 Method Overriding / Overloading  
+- 🔹 Keywords: `this`, `static`, `final`, `instanceof`
 
 ### 🔹 DSA-Java
-- Searching & Sorting Algorithms
-- Linked Lists (Singly, Doubly, Circular)
-- Stacks & Queues
-- HashMap and functions
-- Algorithm's Runtime Analysis & Big-O Notation
-- StringBuilder
-- StringBuffer
-- FileReader
-- LinearAndBinarySearch
+- 🔸 Sorting & Searching  
+- 🔸 Linked Lists (Singly, Doubly, Circular)  
+- 🔸 Stacks & Queues  
+- 🔸 HashMap Functions  
+- 🔸 StringBuilder & StringBuffer  
+- 🔸 FileReader & Input Handling  
+- 🔸 Linear & Binary Search  
+- 🔸 Algorithm Runtime & Big-O Notation
 
-
-### 🔹 Workshop- Mini project 
-- library management system
-- Vehicle rental system
-- Online BillingSystem
-- Vehicle parking system
-- vowel consonant count program 
-
-## 🧠 Progress Overview 
-
-I am continuously updating this repository as I complete more concepts and assignments during my SIPP training.
+### 🔹 Workshop – Mini Projects
+- 📚 Library Management System  
+- 🚗 Vehicle Rental System  
+- 🧾 Online Billing System  
+- 🅿️ Vehicle Parking System  
+- 🔠 Vowel & Consonant Counter  
 
 ---
 
-**Date : 15/07/2025**
+### 📁 Workshop Projects
+- Library Management System
+- Vehicle Rental System
+- Online Billing System
+- Parking System
+- Vowel & Consonant Counter
+---
 
-Added the  assignment solution of the following topics:
+## 🧠 Progress Tracker
 
-- StringBuilder
-- StringBuffer
-- FileReader
-- LinearAndBinarySearch
-- Algorithms Runtime Analysis
--  BigO Notation
+📅 **Last Updated: 15/07/2025**
 
+### ✅ Newly Added Assignments:
+- ✅ StringBuilder & StringBuffer  
+- ✅ FileReader  
+- ✅ Linear & Binary Search  
+- ✅ Algorithm Runtime Analysis  
+- ✅ Big-O Notation  
 
 ---
 
-**Date : 15/07/2025**
-
-Added the assignment solutions for the following topics:
-
-- [StringBuilder, StringBuffer, FileReader, Linear and Binary Search](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
-
-- [Algorithms Runtime Analysis & Big-O Notation](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
-
-  
-
-
-
-## ✍️ Author
+## 🙋‍♀️ About Me
 
 **Neha Singh**  
-CSE Final Year
+🎓 B.Tech CSE Final Year  
+💻 Java & DSA Enthusiast | Backend Learner  
+🌐 [GitHub](https://github.com/NehaSingh2505) | 
 
+---
+
+> _This repository is a part of my BridgeLabz SIPP training and is constantly being updated. Stay tuned!_
