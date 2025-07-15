@@ -71,11 +71,12 @@ I am continuously updating this repository as I complete more concepts and assig
 
 Added the  assignment solution of the following topics:
 
-StringBuilder
-StringBuffer
-FileReader
-LinearAndBinarySearch
-Algorithms Runtime Analysis BigO Notation
+- StringBuilder
+- StringBuffer
+ - FileReader
+- LinearAndBinarySearch
+- Algorithms Runtime Analysis
+-  BigO Notation
 
 🔹Link : (https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
 
