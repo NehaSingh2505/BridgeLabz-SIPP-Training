@@ -73,7 +73,7 @@ Added the  assignment solution of the following topics:
 
 - StringBuilder
 - StringBuffer
- - FileReader
+- FileReader
 - LinearAndBinarySearch
 - Algorithms Runtime Analysis
 -  BigO Notation
