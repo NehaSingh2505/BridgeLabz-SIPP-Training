@@ -26,10 +26,14 @@ Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Trai
 - Arrays & String Manipulation
 - Exception Handling
 - Basic I/O Operations
+- Methods 
+- Programmin elements 
 
 ### 🔹 OOPS
 - Classes & Objects
 - Constructors
+- Encapsulation 
+- Polymorphism
 - Inheritance
 - Interfaces & Abstract Classes
 - Method Overriding & Overloading
@@ -39,20 +43,15 @@ Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Trai
 - Searching & Sorting Algorithms
 - Linked Lists (Singly, Doubly, Circular)
 - Stacks & Queues
-- Recursion
-- Trees (Binary, BST, etc.)
-- Graphs (basic intro)
-
-### 🔹 Projects
-- Bank Management System
-- E-Commerce Product Catalog
-- Library Management System
-- Social Media Friend Connection (Linked List-based)
-- Vehicle Rental management system
-- Online Billing System
-- Parking Lot system
-
----
+- HashMap and functions
+- Algorithm's Runtime Analysis & Big-O Notation
+- 
+### 🔹 Workshop
+- library management system
+- Vehicle rental system
+- Online BillingSystem
+- Vehicle parking sytem
+- vowel consonant count program 
 
 ## 🧠 Progress Overview
 
@@ -63,6 +62,5 @@ I am continuously updating this repository as I complete more concepts and assig
 ## ✍️ Author
 
 **Neha Singh**  
-Java & DSA Enthusiast 
 CSE Final Year
 
