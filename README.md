@@ -63,7 +63,7 @@ Welcome to my BridgeLabz Summer Internship and Placement Preparation (SIPP) Trai
 - library management system
 - Vehicle rental system
 - Online BillingSystem
-- Vehicle parking sytem
+- Vehicle parking system
 - vowel consonant count program 
 
 ## 🧠 Progress Overview 
@@ -83,12 +83,18 @@ Added the  assignment solution of the following topics:
 - Algorithms Runtime Analysis
 -  BigO Notation
 
-🔹Link : (https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
 
+---
 
-🔹Link : (https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
+**Date : 15/07/2025**
 
- 
+Added the assignment solutions for the following topics:
+
+- [StringBuilder, StringBuffer, FileReader, Linear and Binary Search](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+
+- [Algorithms Runtime Analysis & Big-O Notation](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
+
+  
 
 
 
