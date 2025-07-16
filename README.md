@@ -84,7 +84,7 @@ Added the assignment solutions for the following topics:
 
 **Neha Singh**  
 🎓 B.Tech CSE Final Year  
-💻 Java & DSA Enthusiast | Backend Learner  
+💻 Java & DSA Enthusiast | Frontend Learner  
 🌐 [GitHub](https://github.com/NehaSingh2505) | 
 
 ---
