@@ -38,14 +38,14 @@
 - 🔹 Keywords: `this`, `static`, `final`, `instanceof`
 
 ### 🔹 DSA-Java
-- 🔸 Sorting & Searching  
-- 🔸 Linked Lists (Singly, Doubly, Circular)  
-- 🔸 Stacks & Queues  
-- 🔸 HashMap Functions  
-- 🔸 StringBuilder & StringBuffer  
-- 🔸 FileReader & Input Handling  
-- 🔸 Linear & Binary Search  
-- 🔸 Algorithm Runtime & Big-O Notation
+- 🔸 [Sorting](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/Sorting)
+- 🔸 [Linked Lists (Singly, Doubly, Circular) ](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/linkedlist)
+- 🔸 [Stacks & Queues](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StackQueue)
+- 🔸 [HashMap Functions](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/HashMap)
+- 🔸 [StringBuilder & StringBuffer](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+- 🔸 [FileReader & Input Handling](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+- 🔸 [Linear & Binary Search](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+- 🔸 [Algorithm Runtime & Big-O Notation](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
 
 ### 🔹 Workshop – Mini Projects
 - 📚 Library Management System  
@@ -57,11 +57,10 @@
 ---
 
 ### 📁 Workshop Projects
-- Library Management System
-- Vehicle Rental System
-- Online Billing System
-- Parking System
-- Vowel & Consonant Counter
+- [Vehicle Rental System](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/blob/workshop/RentalManagementSystem.java)
+- [Online Billing System](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/blob/workshop/OnlineBillingSystem.java)
+- [Parking System](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/blob/workshop/ParkingLot.java)
+- [Vowel & Consonant Counter](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/blob/workshop/VowelAndConsonant.java)
 ---
 
 ## 🧠 Progress Tracker
