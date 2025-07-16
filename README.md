@@ -94,7 +94,7 @@ Solving the scenario based problem:
 
 **Neha Singh**  
 🎓 B.Tech CSE Final Year  
-💻 Java & DSA Enthusiast | Frontend Learner  
+💻 Java & DSA  | Frontend Learner  
 🌐 [GitHub](https://github.com/NehaSingh2505) | 
 
 ---
