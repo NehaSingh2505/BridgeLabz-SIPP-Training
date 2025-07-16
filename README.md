@@ -66,7 +66,7 @@
 
 ## 🧠 Progress Tracker
 
-📅 **Last Updated: 15/07/2025**
+📅 **Last Updated: 16/07/2025**
 ---
 
 **Date : 15/07/2025**
@@ -78,10 +78,11 @@ Added the assignment solutions for the following topics:
 - [Algorithms Runtime Analysis & Big-O Notation](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
 
 ---
-**Date:16/07/2025**
+**Date: 16/07/2025**
 Solving the scenario based problem:
 
  [IceCreamRush.java](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/blob/dsa/ScenarioBased/IceCreamRush.java) 
+ 
 ##### Logic:
 - I used two parallel arrays — one for the ice cream flavors and one for their corresponding sales numbers. During sorting, whenever I swapped two sales values, I also swapped their matching flavor names to keep both arrays in sync. This ensures the flavor list correctly reflects the sorted sales order.
 
