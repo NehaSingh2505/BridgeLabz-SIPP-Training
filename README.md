@@ -82,12 +82,16 @@ Added the assignment solutions for the following topics:
 Solving the scenario based problem:
 
  [IceCreamRush.java](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/blob/dsa/ScenarioBased/IceCreamRush.java) 
- 
+
 ##### Logic:
 - I used two parallel arrays — one for the ice cream flavors and one for their corresponding sales numbers. During sorting, whenever I swapped two sales values, I also swapped their matching flavor names to keep both arrays in sync. This ensures the flavor list correctly reflects the sorted sales order.
 
-
-
+[FoodFest.java](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/blob/dsa/ScenarioBased/FoodFest.java)
+ 
+##### Logic :
+- I have implemented a program to merge two already sorted arrays 'stall1' and 'stall2' representing the footfall at two food stalls during a festival.
+- I used a classic two-pointer technique to efficiently merge two sorted arrays (stall1 and stall2) into a single sorted array 
+ without using any sorting after merging.
 
 ---
 
