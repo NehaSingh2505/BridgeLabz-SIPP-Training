@@ -20,12 +20,12 @@
 ## 💡 Concepts Covered
 
 ### 🔹 Core-Java
-🔸 Java Syntax & Variables  
-🔸 Loops & Conditionals  
-🔸 Arrays & Strings  
-🔸 Exception Handling  
-🔸 Methods & Basic I/O  
-🔸 Programming Elements  
+-  Java Syntax & Variables  
+-  Loops & Conditionals  
+-  Arrays & Strings  
+-  Exception Handling  
+-  Methods & Basic I/O  
+-  Programming Elements  
 
 ### 🔹 OOPS (Object-Oriented Programming)
 - 🔹 Classes & Objects  
@@ -38,14 +38,14 @@
 - 🔹 Keywords: `this`, `static`, `final`, `instanceof`
 
 ### 🔹 DSA-Java
- 🔸 [Sorting](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/Sorting)
- 🔸 [Linked Lists (Singly, Doubly, Circular) ](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/linkedlist)
- 🔸 [Stacks & Queues](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StackQueue)
- 🔸 [HashMap Functions](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/HashMap)
- 🔸 [StringBuilder & StringBuffer](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
- 🔸 [FileReader & Input Handling](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
- 🔸 [Linear & Binary Search](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
-🔸 [Algorithm Runtime & Big-O Notation](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
+-  [Sorting](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/Sorting)
+-  [Linked Lists (Singly, Doubly, Circular) ](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/linkedlist)
+-  [Stacks & Queues](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StackQueue)
+-  [HashMap Functions](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/HashMap)
+-  [StringBuilder & StringBuffer](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+-  [FileReader & Input Handling](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+-  [Linear & Binary Search](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/StringBuilder_StringBuffer_FileReader_LinearAndBinarySearch)
+-  [Algorithm Runtime & Big-O Notation](https://github.com/NehaSingh2505/BridgeLabz-SIPP-Training/tree/dsa/AlgorithmsRuntimeAnalysisBigONotation)
 
 ### 🔹 Workshop – Mini Projects
 - 📚 Library Management System  
