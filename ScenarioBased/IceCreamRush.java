@@ -2,6 +2,7 @@ public class IceCreamRush {
     public static void main(String[] args) {
         String[] iceCreamFlavors = {"Vanilla", "Chocolate", "Strawberry", "Mint", "Cookie Dough","Pistachio","Mango","blackberry"};
         int[] sales = {50, 70, 80,60, 90,110,50,85};
+        //taken 8 ice cream flavors and their sales in the array
         for(int i = 0 ; i < sales.length-1 ; i++ ) {
             for(int j = 0 ; j < sales.length-1-i ; j++ ){
                 if( sales[j] < sales[j+1]) {
@@ -14,6 +15,7 @@ public class IceCreamRush {
                 }
             }
         }
+        //dispalying the sorted ice cream flavors and their sales in descending order here 
         System.out.println("Sorted Ice Cream Flavors by Sales : " );
         System.out.println("===================================");
         
