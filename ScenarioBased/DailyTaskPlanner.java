@@ -48,7 +48,7 @@ class CodingSession extends Task {
         System.out.println("Executing coding session task: " + taskDescription);
     }
 }
-// DailyTaskPlanner class to manage tasks
+
 public class DailyTaskPlanner {
     static LinkedList<Task> taskList = new LinkedList<>();
 
