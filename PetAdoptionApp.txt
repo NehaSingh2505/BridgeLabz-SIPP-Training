@@ -1,0 +1,39 @@
+START
+
+CLASS Pet
+    Attribute name
+    Attribute breed
+    Attribute age;
+   CONSTRUCTOR (name ,age ,breed)
+      SET this.name=name
+      SET this.age=age
+      SET this.breed=breed
+METHOD displayInfo()
+PRINT name
+PRINT breed
+PRINT age
+
+CLASS Dog Extends PET
+CONSTRUCTOR(name,age,breed)
+SUPER(name,age,breed)
+
+METHOD bark()
+ name+"Barking"
+
+CLASS CAT extends Pet
+ Attribute isIndoor
+ CONSTRUCTOR(name,age,breed,isIndoor)
+  SUPER(name,age,breed)
+METHOD meow()
+ name+"can meow"
+
+SET this.isIndoor=isIndoor
+
+CLASS BIRD extends Pet
+
+ATTRIBUTE color
+CONSTRUCTOR(name,age,breed,color)
+SUPER(name,age,breed)
+SET color=color
+METHOD sing()
+name + " can fly";
