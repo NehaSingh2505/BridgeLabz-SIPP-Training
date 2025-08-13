@@ -1,0 +1,26 @@
+START 
+
+CLASS LibraryMembershipTracker
+    ATTRIBUTE name
+    ATTRIBUTE membershipId
+    ATTRIBUTE membershipDate
+
+    CONSTRUCTOR(name, membershipId, membershipDate)
+        SET this.name = name
+        SET this.membershipId = membershipId
+        SET this.membershipDate = membershipDate
+
+    METHOD checkMembershipValidity(currentDate)
+        expiryDate = membershipDate + 1 year
+        IF currentDate <= expiryDate THEN
+            PRINT name + "'s membership is valid " + expiryDate
+        ELSE
+            PRINT name + "'s membership expired on " + expiryDate
+        END IF
+
+    METHOD displayInfo()
+        PRINT "Name: " + name
+        PRINT "Membership ID: " + membershipId
+        PRINT "Membership Date: " + membershipDate
+
+END 
